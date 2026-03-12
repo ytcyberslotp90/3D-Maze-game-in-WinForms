@@ -39,5 +39,5 @@ This project demonstrates **raycasting, texture mapping, and real-time 3D render
 
 ## ⚡ How to Run
 
-1. Just Copy & Paste the main.cs code into your Console/WinForms program.  
+1. Just Copy & Paste the `Program.cs` code into your Console/WinForms program and don't forget to put the `texture.png` in the final exe's path.
    
