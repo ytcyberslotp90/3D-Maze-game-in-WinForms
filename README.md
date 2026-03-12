@@ -32,7 +32,7 @@ This project demonstrates **raycasting, texture mapping, and real-time 3D render
 
 ## 📷 Screenshots
 
-![Maze Screenshot](screenshot.gif)  
+![Maze Screenshot](maze.gif)  
 *Classic retro 3D view with rotating mini-map pointer.*
 
 ---
