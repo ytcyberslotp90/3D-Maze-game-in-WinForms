@@ -1,6 +1,6 @@
 # 🕹️ WinForms 3D Maze Raycasting
 
-**Cyber Slot Terminal Presents:** A **classic Wolfenstein 3D-style maze engine** built entirely in **C# WinForms**!  
+**Cyber Slot Presents:** A **classic Wolfenstein 3D-style maze engine** built entirely in **C# WinForms**!  
 
 This project demonstrates **raycasting, texture mapping, and real-time 3D rendering** using only GDI+ — no heavy game engines required. Perfect for learning and experimenting with **retro 3D game development**.
 
